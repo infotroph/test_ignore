@@ -5,3 +5,5 @@ Testing
 Now there's a file
 
 With contents
+
+yay contents
